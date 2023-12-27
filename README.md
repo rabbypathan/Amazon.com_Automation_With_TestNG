@@ -6,6 +6,7 @@ This is a complete project where an e-commerce site Amazon.com is automated by w
 - Selenium
 - TestNG Framework
 - Gradle
+- Allure
 
 ## Prerequisites:
 - jdk
