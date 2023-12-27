@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Amazon Automation">
+    <test name="Random">
+        <classes>
+            <class name="TestRunner"></class>
+        </classes>
+    </test>
+</suite>
